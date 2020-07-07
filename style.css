@@ -1,0 +1,22 @@
+header {
+  background: pink;
+}
+.header__title {
+  font: 40px normal;
+  text-shadow: 1px 1px #ffffff;
+}
+.section__desc {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  white-space: pre;
+}
+.section__author {
+  margin-top: 50px;
+  margin-bottom: 35px;
+}
+.article__text {
+  margin-bottom: 0.5px;
+  text-indent: 25px;
+  margin-top: 0.5px;
+  white-space: pre;
+}
